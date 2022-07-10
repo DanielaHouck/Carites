@@ -9,7 +9,7 @@ Acreditamos que juntos podemos fazer a diferença.
 
 
 
-## "A verdadeira cor está em um gesto de amor" - Charles Chaplin
+#### "A verdadeira cor está em um gesto de amor" - Charles Chaplin
 
 ## Contribuidores
 
