@@ -9,7 +9,15 @@ Acreditamos que juntos podemos fazer a diferença.
 
 
 
-### "A verdadeira cor está em um gesto de amor" - Charles Chaplin
+## "A verdadeira cor está em um gesto de amor" - Charles Chaplin
+
+## Contribuidores
+
+* Bianca Reis Santana
+* Cristhian da Silva Alves
+* Daniela Lemmo Houck
+* Débora Letícia Soares
+* Lizandra Katia Pereira
 
 
 
